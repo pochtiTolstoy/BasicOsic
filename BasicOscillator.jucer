@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <JUCERPROJECT id="ZXYD9p" name="BasicOscillator" projectType="audioplug" useAppConfig="0"
-              addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1">
+              addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" cppLanguageStandard="17">
   <MAINGROUP id="OM4CnA" name="BasicOscillator">
     <GROUP id="{73BEB5C1-3899-A279-7976-6F798FA92C2A}" name="Source">
       <FILE id="wBsEZ1" name="PluginProcessor.cpp" compile="1" resource="0"
